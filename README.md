@@ -64,6 +64,7 @@ See [`LICENSE.txt`](LICENSE.txt) for the full license text.
 ## 🧾 Citation
 
 If you use this code or its methodology in your research, please cite it as:
+
 Alabdulwahab, A. (2025). Shear Buckling of Plates with Edge-Stiffened Holes.
 University of Sydney. GitHub Repository: [https://github.com/i3zzy/Shear-Buckling-of-Plates-with-ESH/](https://github.com/i3zzy/Shear-Buckling-of-Plates-with-ESH/)
 
