@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Shear Buckling of Plates with Edge-Stiffened Holes"
+message: "If you use this code in your research, please cite it as below."
+authors:
+  - family-names: "Alabdulwahab"
+    given-names: "Abdulaziz"
+    affiliation: "University of Sydney, School of Civil Engineering"
+    email: "alabdulwahab01@gmail.com"
+date-released: "2025-11-11"
+version: "1.0.0"
+license: "Educational Use License (EUL)"
+repository-code: "https://github.com/i3zzy/Shear-Buckling-of-Plates-with-ESH/"
+keywords:
+  - Abaqus
+  - Python
+  - Cold-Formed Steel
+  - Shear Buckling
+  - Edge-Stiffened Holes
+  - Finite Element Analysis
