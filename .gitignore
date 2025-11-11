@@ -1,0 +1,18 @@
+# Abaqus temporary & result files
+*.odb
+*.log
+*.lck
+*.dat
+*.com
+*.sta
+*.msg
+*.sim
+*.jnl
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
